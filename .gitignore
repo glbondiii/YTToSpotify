@@ -1,0 +1,4 @@
+src/credentials.json
+src/secret.py
+src/__pycache__
+src/.venv
